@@ -2,6 +2,10 @@
 
 This is a Next.js application for managing an inventory of items using Firebase Firestore as the database and Material-UI for the user interface components.
 
+## Demo
+
+![image](https://github.com/user-attachments/assets/336cfff9-a57e-4ff6-91ec-211a39fef91b)
+
 ## Features
 
 - View inventory items with filtering options
