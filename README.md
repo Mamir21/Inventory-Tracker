@@ -1,6 +1,6 @@
 # Inventory Management Application
 
-This is a Next.js application for managing an inventory of items using Firebase Firestore as the database and Material-UI for the user interface components.
+This is a powerful Next.js application designed for comprehensive inventory management. It leverages Firebase Firestore as a scalable database to track and manage all the data you enter, ensuring your inventory is always up-to-date. The user interface is built with Material-UI, providing a seamless and intuitive experience for managing items efficiently.
 
 ## Demo
 
@@ -13,7 +13,7 @@ This is a Next.js application for managing an inventory of items using Firebase 
 - Search items by name
 - Categorize items
 
-## Technologies Used
+## Tech Stack
 
 - **Next.js**: React framework for server-side rendering and static site generation
 - **Material-UI**: React UI framework for styling components
